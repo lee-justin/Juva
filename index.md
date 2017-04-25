@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Hola baby. If you see this, you are on the test page. Much more is to come
 
 You can use the [editor on GitHub](https://github.com/lee-justin/Juva/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
